@@ -1,21 +1,11 @@
 */target/*
-
- *.class
-
- *test-output
-
- *.swp
-
- *.orig
-
- **/log.properties
-
- .project
-
- .classpath
-
- */.settings/*
-
- *.gitignore
-
- *.prefs
+*.class
+*test-output
+*.swp
+*.orig
+**/log.properties
+.project
+.classpath
+*/.settings/*
+*.gitignore
+*.prefs
